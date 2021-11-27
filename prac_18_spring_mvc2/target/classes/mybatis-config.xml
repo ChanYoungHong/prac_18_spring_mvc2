@@ -23,7 +23,7 @@
 		
 	 -->
 	 <typeAliases>
-	 	<typeAlias type="com.spring.mvc2.dataTransfer.domain.OrderDto" alias="OrderDto"/>
+	 	<typeAlias type="com.spring.mvc22.dataTransfer.domain.OrderDto" alias="OrderDto"/>
 	 </typeAliases>
 	 
  
